@@ -11,5 +11,4 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-alpha-smoky-77.vercel.app/api?username=xkeanu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats-alpha-smoky-77.vercel.app/?user=xkeanu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-alpha-smoky-77.vercel.app/api/top-langs/?username=xkeanu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
