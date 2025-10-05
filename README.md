@@ -10,5 +10,4 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-alpha-smoky-77.vercel.app/api?username=xkeanu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&include_orgs=true)<br/>
 ![](https://github-readme-stats-alpha-smoky-77.vercel.app/api/top-langs/?username=xkeanu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&include_orgs=true)
